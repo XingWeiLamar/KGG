@@ -1,5 +1,5 @@
 # KGG
-# KGP
+
 Knowledge Graph Processor (KGP)
 KGP is a simple tool to generate knowledge graph triplets list from the input csv file and replace each entity with a unique index number. 
 
