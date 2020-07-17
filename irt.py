@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-IRT 
-Transfer  explicit feedback to implicit feedback.
+IRG Implicit Feedback Generator
+A simple tool to transfer explicit feedback to implicit feedback.
 """
 import numpy as np
 
